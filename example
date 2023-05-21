@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>메인페이지 예시</title>
+    <style>
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <!-- 네비게이션 바 -->
+      </nav>
+    </header>
+    <main>
+      <section>
+        <h2>특산품</h2>
+        <div>
+          <figure>
+            <img src="이미지_경로" alt="특산품 이미지" />
+            <figcaption>특산품 설명</figcaption>
+          </figure>
+        </div>
+      </section>
+      <section>
+        <h2>관광지</h2>
+        <div>
+          <figure>
+            <img src="이미지_경로" alt="관광지 이미지" />
+            <figcaption>관광지 설명</figcaption>
+          </figure>
+        </div>
+      </section>
+      <section>
+        <h2>축제</h2>
+        <div>
+          <figure>
+            <img src="이미지_경로" alt="관광지 이미지" />
+            <figcaption>관광지 설명</figcaption>
+          </figure>
+        </div>
+      </section>
+      <section>
+        <h2>공지사항</h2>
+        <div class="notice-box">
+          <p>공지사항을 작성합니다.</p>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <div class="team-info">
+        <h3>팀원 정보</h3>
+        <ul>
+          <li>팀원 1: 김재연</li>
+          <li>팀원 2: 원도연</li>
+          <li>팀원 3: 양은지</li>
+          <li>팀원 4: 이서현</li>
+          <!-- 푸터 끝 -->
+        </ul>
+      </div>
+    </footer>
+  </body>
+</html>
